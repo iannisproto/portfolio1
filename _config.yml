@@ -1,0 +1,46 @@
+remote_theme: jekyll-theme-forty-jekyll-theme
+# site settings
+title: IannisPortfolio
+subtitle: S6/S7MU23-25
+email:
+description: Welcome to my portfolio. Here, you'll find my musical diary, including performances, compositions, and progress notes.
+baseurl: "/portfolio" # the subpath of your site, e.g. /blog
+url: # community-blueprint-development.github.io
+author:
+street_address:
+city:
+state:
+zip_code:
+country:
+phone:
+
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 6
+
+# social settings (key must match name of font awesome icon)
+# see https://fontawesome.com/icons?d=gallery&p=2&s=brands
+# Icons are not shown if value is empty
+# You need to restart jekyll for changes to have an effect
+socials:
+  GitHub: https://github.com
+  GitLab:
+  Google-Plus:
+  Instagram: https://instagram.com
+  LinkedIn:
+  Twitter: https://x.com
+  Facebook: https://facebook.com
+  Slack:
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
+
+exclude:
+- "*.gemspec"
+- LICENSE.md
+- CONTRIBUTING.md
+- README.md
+
