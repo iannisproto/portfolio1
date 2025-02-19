@@ -4,7 +4,7 @@ title: IannisPortfolio
 subtitle: S6/S7MU23-25
 email:
 description: Welcome to my portfolio. Here, you'll find my musical diary, including performances, compositions, and progress notes.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: # the subpath of your site, e.g. /blog
 url: # community-blueprint-development.github.io
 author:
 street_address:
