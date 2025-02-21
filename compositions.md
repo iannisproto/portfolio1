@@ -64,7 +64,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Examination Composition</h3>
 				</header>
-				<p>This is the composition I worked on for my music course prebac. The criterias were only that it had to be about three to eight minutes long and be structured using song structures we've studied in class. I made my using the cloud-based digital audio workstation Bandlab.</p>
+				<p>This is the composition I worked on for my music course prebac. The criterias were only that it had to be about two to eight minutes long and be structured using song structures we've studied in class. I made my using the cloud-based digital audio workstation Bandlab.</p>
 				<ul class="actions">
 					<li><a href="compositions/examination-composition.html" class="button">View song</a></li>
 				</ul>

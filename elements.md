@@ -2,7 +2,7 @@
 layout: page
 title: Elements
 image: assets/images/pic04.jpg
-nav-menu: true
+nav-menu: false
 show_tile: false
 ---
 
