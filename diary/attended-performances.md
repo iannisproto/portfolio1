@@ -1,7 +1,7 @@
 ---
 title: Attended Performances
 layout: landing
-description: null
+description: (21 events)
 image: null
 nav-menu: false
 show_tile: false
@@ -9,18 +9,18 @@ image: assets/images/salzburg.png
 ---
 <style>
 p {
-    font-size: 28px;
+    font-size: 24px;
     line-height: 3rem;
 }
 ul {
-    font-size: 28px;
+    font-size: 24px;
 }
 tbody {
     text-transform: uppercase;
 }
 
 .main {
-    width: 80%;
+    width: 70%;
     margin: 0 auto;
 }
 .programme {
@@ -65,12 +65,14 @@ table {
     ul {
         font-size: 18px;
     }
+
+    .main {
+        width: 80%;
+    }
 }
 </style>
 
 <div class="main">
-
-<p id="25-09-23" style="color: gray;">(21 events)</p>
 
 <table>
     <tbody>
