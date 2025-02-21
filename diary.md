@@ -22,7 +22,7 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="diary/attended_performances.html" class="image">
+		<a href="diary/attended-performances-index.html" class="image">
 			<img src="{% link assets/images/graz_operahouse.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -32,13 +32,13 @@ nav-menu: true
 				</header>
 				<p>This part of my musical portfolio will share my experience in attending concerts. Every performance deeply impressed me, whether it was the depth of emotions in symphonies or the fine beauty of solo parts. I will also talk about how these concerts have deepened my appreciation of classical music and inspired me with new ideas in my work.</p>
 				<ul class="actions">
-					<li><a href="diary/attended_performances_index.html" class="button">Learn more</a></li>
+					<li><a href="diary/attended-performances-index.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
-		<a href="diary/learning_instruments.html" class="image">
+		<a href="diary/learning-instruments.html" class="image">
 			<img src="{% link assets/images/instruments.jpg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
@@ -48,13 +48,13 @@ nav-menu: true
 				</header>
 				<p>Here I document my learning process for violin and piano. I share the challenges that I have faced, such as mastery of techniques and building finger strength with the joy of small victories in practice. I started playing piano in year six to help improve my understanding of music theory and even though I focus on the bowing technique for violin, piano expands my musical knowledge.</p>
 				<ul class="actions">
-					<li><a href="diary/learning_instruments.html" class="button">Learn more</a></li>
+					<li><a href="diary/learning-instruments.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
-		<a href="diary/lesson_diary.html" class="image">
+		<a href="diary/lesson-diary.html" class="image">
 			<img src="{% link assets/images/classroom.jpg %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
@@ -64,7 +64,7 @@ nav-menu: true
 				</header>
 				<p>Here I document my course in music at school through a lesson diary in which I note after each lesson what I learn, be it new concepts of music theory or skills concerning the violin. This allows me to reflect on and monitor my progress.</p>
 				<ul class="actions">
-					<li><a href="diary/lesson_diary.html" class="button">Learn more</a></li>
+					<li><a href="diary/lesson-diary.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>

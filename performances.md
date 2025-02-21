@@ -5,5 +5,3 @@ description: Here I list all the times I've performed in front of other people, 
 image: assets/images/performances.jpg
 nav-menu: false
 ---
-
-<video controls><source src="../assets/images/last_christmas.MOV" type="video/quicktime">Your browser does not support the video tag.</video>

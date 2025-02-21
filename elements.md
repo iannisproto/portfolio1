@@ -1,9 +1,8 @@
 ---
 layout: page
 title: Elements
-description: null
-image: assets/images/performances.jpg
-nav-menu: false
+image: assets/images/pic04.jpg
+nav-menu: true
 show_tile: false
 ---
 

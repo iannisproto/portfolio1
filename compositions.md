@@ -40,7 +40,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="compositions/theme_and_variations.html" class="image">
+		<a href="compositions/theme-and-variations.html" class="image">
 			<img src="{% link assets/images/notes2.png %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
@@ -50,7 +50,23 @@ nav-menu: true
 				</header>
 				<p>Our next project involved selecting a melody, either one we had previously composed or a new creation. Once we had made our choice, we would explore various interpretations and variations, to experiment with different styles and techniques.</p>
 				<ul class="actions">
-					<li><a href="compositions/theme_and_variations.html" class="button">View score</a></li>
+					<li><a href="compositions/theme-and-variations.html" class="button">View score</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a href="compositions/examination-composition.html" class="image">
+			<img src="{% link assets/images/bandlab.jpg %}" alt="" data-position="top center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Examination Composition</h3>
+				</header>
+				<p>This is the composition I worked on for my music course prebac. The criterias were only that it had to be about three to eight minutes long and be structured using song structures we've studied in class. I made my using the cloud-based digital audio workstation Bandlab.</p>
+				<ul class="actions">
+					<li><a href="compositions/examination-composition.html" class="button">View song</a></li>
 				</ul>
 			</div>
 		</div>
